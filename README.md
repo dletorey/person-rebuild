@@ -6,11 +6,12 @@ These are the layouts of different post that I shall create on my site.
 
 ### Reviews
 
-This is what I think about this thing
+[Reviews](/post-types/reviews/reviews.md) are what I think about this thing
 
 ### Food
 
-Food related posts:
+[Food](/post-types/food/food.md) related posts:
+
 - Recipes
 - What is this
 - How to do this
