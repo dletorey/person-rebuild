@@ -15,3 +15,4 @@ These are the layouts of different post that I shall create on my site.
 - Recipes
 - What is this
 - How to do this
+- Test
