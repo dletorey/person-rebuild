@@ -15,3 +15,7 @@ These are the layouts of different post that I shall create on my site.
 - Recipes
 - What is this
 - How to do this
+
+## References
+
+- [types of post](https://weblog.anniegreens.lol/2023/11/types-of-blog-posts)
